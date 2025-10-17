@@ -73,7 +73,7 @@ of how we think about what already works.
 
 # Pixar. Apple. Us.
 
-Mike when I shared this framework
+When I shared this framework with Mike he
 said it reminded him of Pixar —  
 not in brand, but in principle.
 
