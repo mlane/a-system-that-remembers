@@ -357,7 +357,7 @@ and how we grow — together.
 
 ---
 
-![Image of the pillars](./pillars.png)
+![Image of the pillars](/pillars.png)
 
 ---
 
@@ -838,7 +838,7 @@ But it was grounded in the same truth.
 
 ---
 
-![Comparison](./frameworks.png)
+![Comparison](/frameworks.png)
 
 ---
 
