@@ -18,6 +18,18 @@ A System That Remembers
 
 ---
 
+# Just Sit With It
+
+All I ask is that you let this sit with you.  
+Over the weekend. No action. No pressure.
+
+I’ll follow up Monday with more details.  
+We’ll have our first official sync next Friday.
+
+But today — just feel the shape of it.
+
+---
+
 Chapter 1 — The Fire That Stays
 
 ---
@@ -276,18 +288,6 @@ What I want to share
 isn’t a process.
 
 It’s a way of thinking.
-
----
-
-# Just Sit With It
-
-All I ask is that you let this sit with you.  
-Over the weekend. No action. No pressure.
-
-I’ll follow up Monday with more details.  
-We’ll have our first official sync next Friday.
-
-But today — just feel the shape of it.
 
 ---
 
