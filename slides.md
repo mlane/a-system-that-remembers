@@ -1,7 +1,7 @@
 ---
 theme: default
 layout: center
-class: text-white bg-black h-screen
+class: text-white bg-black
 transition: slide-left
 drawings:
   persist: false
