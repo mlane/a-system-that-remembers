@@ -73,8 +73,8 @@ of how we think about what already works.
 
 # Pixar. Apple. Us.
 
-When I shared this framework with Mike he
-said it reminded him of Pixar —  
+When I shared this framework with
+Mike he said it reminded him of Pixar —  
 not in brand, but in principle.
 
 A place where values guide the system,  
