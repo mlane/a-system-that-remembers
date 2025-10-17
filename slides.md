@@ -357,7 +357,7 @@ and how we grow — together.
 
 ---
 
-Image of the pillars
+![Image of the pillars](./pillars.png)
 
 ---
 
@@ -374,7 +374,7 @@ I’ll be helping lead this pillar moving forward.
 
 # Framework & Cadence
 
-> “We scale through rhythm, ownership, and principle — not process.”
+> “We scale through rhythm, ownership, and principle — this is our process.”
 
 This is how we keep momentum without burnout.  
 Reviews, rituals, culture, and evolution.
@@ -549,7 +549,7 @@ across time, across teams, across change.
 
 # The Pillar
 
-> “We scale through rhythm, ownership, and principle — not process.”
+> “We scale through rhythm, ownership, and principle — this is our process.”
 
 It’s not about more meetings.  
 It’s about _shared momentum_  
