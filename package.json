@@ -1,0 +1,26 @@
+{
+  "author": "Marcus Lane",
+  "dependencies": {
+    "@slidev/cli": "^52.2.5",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.22"
+  },
+  "description": "A quiet introduction to the Engineering System Framework — not a rollout, but a reflection.",
+  "keywords": [
+    "slidev",
+    "presentation",
+    "engineering",
+    "framework",
+    "esf"
+  ],
+  "license": "CC BY-NC 4.0",
+  "name": "a-system-that-remembers",
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
