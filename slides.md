@@ -14,6 +14,10 @@ info: |
 background: none
 ---
 
+A System That Remembers
+
+---
+
 Chapter 1 — The Fire That Stays
 
 ---
