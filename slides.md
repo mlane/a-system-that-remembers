@@ -838,6 +838,10 @@ But it was grounded in the same truth.
 
 ---
 
+![Comparison](./frameworks.png)
+
+---
+
 # Principle Over Form
 
 He used to say:
