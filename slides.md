@@ -675,9 +675,9 @@ This pillar is where we hold:
 - Lightning talks
 - Mini trainings
 - Contribution logs
-- Slack discussion culture
+- Discussion culture
 
-It’s not fluff. It’s **visibility with purpose**.
+It’s **visibility with purpose**.
 
 ---
 
